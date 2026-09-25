@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81b17296937b5d356028d5201c76db08, type: 3}
+  m_Name: GameConfigs
+  m_EditorClassIdentifier:
+  defaultSavedGameData: {fileID: 11400000, guid: b94219b0738a47d48aef96672fbcd7bf, type: 2}
+  scenesData:
+  - SceneIndex: 0
+    scene:
+      scenePath: Assets/!/C_Scenes/Logo.unity
+  - SceneIndex: 1
+    scene:
+      scenePath: Assets/!/C_Scenes/Splash.unity
+  - SceneIndex: 2
+    scene:
+      scenePath: Assets/!/C_Scenes/Gameplay 1.unity
+  - SceneIndex: 9998
+    scene:
+      scenePath: Assets/!/C_Scenes/Background.unity
+  - SceneIndex: 3
+    scene:
+      scenePath:
+  gameAssets: {fileID: 11400000, guid: d051b248a60999e498c5e9a9fc4c2a75, type: 2}
+  initKey:
+    m_LabelString:
+  gameUIConfig: {fileID: 11400000, guid: 7925c275ff95fef42887d9b09ff87ba7, type: 2}
+  testUIConfig: {fileID: 11400000, guid: 3408ac4201eb595448f2911a65dee4a7, type: 2}
+  gameOverlayUIConfig: {fileID: 11400000, guid: 0041327bfce62aa4cba3f0edccc1eec2, type: 2}
+  shopContentConfig: {fileID: 11400000, guid: 09002302f2905ae4a8fc8f3b01018e39, type: 2}
+  iapGroupConfig: {fileID: 11400000, guid: 1f0428fd54d531847864766f103cfbdd, type: 2}
+  unlockTable: {fileID: 11400000, guid: c46f5536b3205ec44ad7532d06ab038d, type: 2}
+  unlockFeatureConfig: {fileID: 11400000, guid: 3178197f52058454d9143f3084fc7572, type: 2}
+  boosterConfig: {fileID: 11400000, guid: 1ab6115d026c2b04ea3acd18f04759b2, type: 2}
+  buyBoosterDatas:
+  - {fileID: 11400000, guid: 3b0a22f63431ddf49aa190f4280b1f6e, type: 2}
+  - {fileID: 11400000, guid: b3d7c6e751646e04d8b70dc4a5b31110, type: 2}
+  - {fileID: 11400000, guid: fa7a61d4f3114334b929dda36d99d0d7, type: 2}
+  effectDatabase: {fileID: 11400000, guid: 2666b8527c85e8740be6006539e8b4cf, type: 2}
+  normalLevelDatabase: {fileID: 11400000, guid: 540737cbfc8aeb64a8b51d41752241f1, type: 2}
+  hardLevelDatabase: {fileID: 0}
+  firebaseRemoteConfigData: {fileID: 11400000, guid: 6b346a4e3e7ac1444ae1ec965045360d, type: 2}
+  timedRegenConfig: {fileID: 11400000, guid: 8e71be3864bdef740b457f1618dfa51e, type: 2}
+  timedBuffConfig: {fileID: 11400000, guid: b53b903c7c1865e4aa2abd3d3d1c0752, type: 2}
+  rateAppConfig: {fileID: 11400000, guid: 8f857babfb2e9c649beca7f22aee2fa3, type: 2}
+  battlePassConfig: {fileID: 11400000, guid: 8c31b3d0ab9148044b8e7e4835106410, type: 2}
+  notificationConfig: {fileID: 11400000, guid: 10a9eca757cf4af48b2bbf2e55b75112, type: 2}
+  externalLinkConfig: {fileID: 11400000, guid: 26542f833a6b3d54b8f8cade2f35ab68, type: 2}
+  gameTuningConfig: {fileID: 11400000, guid: dc8821ee48e69d9428b453595e2eb645, type: 2}

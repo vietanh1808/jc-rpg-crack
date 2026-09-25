@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69996a0aa65e0ceab0acca558228d4a9, type: 3}
+  m_Name: SavedGameDataContainer Default
+  m_EditorClassIdentifier:
+  gameData:
+    currentVersion: 1
+    savedPlayerProgressData:
+      currentVersion: 2
+      level: 1
+      currentLevelAttempt: 0
+      currentLevelLoseIndex: 0
+      currentLevelExitIndex: 0
+      currentLevelDurationTotal: 0
+      lastAttemptProgressPosX: -9999
+      winStreak: 0
+      loseStreak: 0
+      activeDayCount: 0
+      lastActiveDate:
+      loginStreak: 0
+      highestWinStreak: 0
+      firstTryWinCount: 0
+      savedBoosterData:
+        currentVersion: 1
+        boosterDataPoints: []
+      savedFeatureData:
+        currentVersion: 1
+        featureDataPoints: []
+      savedTutorialData:
+        currentVersion: 1
+        tutorialDataPoints: []
+      savedRegenData:
+        currentVersion: 1
+        regenPoints: []
+      savedBuffData:
+        currentVersion: 1
+        buffPoints: []
+      savedRateAppData:
+        currentVersion: 1
+        winsSinceLastPrompt: 0
+        lastPromptUtcTicks: 0
+        promptCount: 0
+        versionLastRated:
+      savedPendingAbandonData:
+        currentVersion: 1
+        hasPending: 0
+        backgroundUtcTicks: 0
+        sessionId:
+        timeSpent: 0
+        itemsTotal: 0
+        itemsCleared: 0
+        playType: 0
+      savedBattlePassData:
+        currentVersion: 1
+        savedWalletIntData:
+          currentVersion: 1
+          earned: 0
+          spent: 0
+        savedTrackData:
+          currentVersion: 1
+          claimedMilestoneIds:
+          premiumUnlocked: 0
+      savedLocalizationData:
+        currentVersion: 1
+        activeLocale: 0
+    savedUserData:
+      currentVersion: 1
+      userId:
+      lastTimeLogin:
+        _dateTime: 0001-01-01T00:00:00.0000000
+      lastTimeLogout:
+        _dateTime: 0001-01-01T00:00:00.0000000
+      sessionsPlayed: 1
+      lastTimeClaimedAds:
+        _dateTime: 0001-01-01T00:00:00.0000000
+    savedBuyData:
+      currentVersion: 1
+      buyNoAds: 0
+      rated: 0
+      shownNoAdsOffer: 0
+      ownedProductIDs: []
+      iapCount: 0
+    savedSettingData:
+      currentVersion: 1
+      enablePn: 1
+      requestedPn: 0
+      iosTrackingRequested: 0
+      bgmVolume: 1
+      sfxVolume: 1
+      enableMusic: 1
+      enableSfx: 1
+      enableHaptic: 1
+      highPerformance: 1
+    savedProgressionData:
+      currentVersion: 1
+      savedCounterData:
+        currentVersion: 1
+        entries: []
+      savedRewardTrackData:
+        currentVersion: 1
+        entries: []
+      savedLadderData:
+        currentVersion: 1
+        entries: []
+      savedCurrencyData:
+        currentVersion: 1
+        entries: []
+      savedUnlockGateData:
+        currentVersion: 1
+        entries: []
+      savedCycleData:
+        currentVersion: 1
+        entries: []
+      savedBadgeData:
+        currentVersion: 1
+        entries: []
+      savedIntegrityData:
+        currentVersion: 1
+        signature:
+        signatureVersion: 0
+        generation: 0
+        seededFromCloud: 0
+        lastLocalSaveUtc: 0

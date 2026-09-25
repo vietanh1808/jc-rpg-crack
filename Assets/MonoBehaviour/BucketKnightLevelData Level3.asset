@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc58e51959b234572f35d62e387fb20, type: 3}
+  m_Name: BucketKnightLevelData Level3
+  m_EditorClassIdentifier:
+  releaseDifficulty: 1
+  grainyLook: 1
+  levelBlueprint: {fileID: 11400000, guid: cb2cf4857d82fa24f807be02a3be35ba, type: 2}

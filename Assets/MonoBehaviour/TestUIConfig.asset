@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74324b8ccfbb5d7d94b63c8911094ba4, type: 3}
+  m_Name: TestUIConfig
+  m_EditorClassIdentifier:
+  panelInstances:
+  - {fileID: 114574190619683098, guid: c11f9673cc1456848becdfb2ed12fb6a, type: 2}
+  - {fileID: 114621510681728303, guid: 62c934b1f9b001540afdde601c837a6c, type: 2}
+  - {fileID: 114313026266067498, guid: af4ecb8cbdb77e744ab8f4d00d4c8616, type: 2}
+  - {fileID: 114313026266067498, guid: 214b0a261d04b0e48a9ddd6daa16f3ac, type: 2}
+  - {fileID: 114621510681728303, guid: 8587c5ee9334b9847ab24f41cbc6ac24, type: 2}
+  - {fileID: 114336590748365959, guid: 7521e4d990e23e24a925d4b0999c8627, type: 2}
+  - {fileID: 114336590748365959, guid: 23f64fa128afc164989a2539db1f487c, type: 2}
+  - {fileID: 114630643969539439, guid: d27baca0b2a04354aaa682d5d237a1ca, type: 2}
+  - {fileID: 114002669891404536, guid: 650b734fc149e254e990372c61ebd29d, type: 2}
+  - {fileID: 114875609422105747, guid: 735f1144530ffe9419fb5d3b8ae2236f, type: 2}
+  - {fileID: 114693329660128220, guid: 4a59b314dd152fa4b841fd16a812c2dc, type: 2}
+  path: Assets/!_/Z_Tests
+  path2: Assets/!_/DevTools/Test Screens
+  path3:
+  path4:
+  prefabConfig: {fileID: 11400000, guid: 24a90e75bccfdbc419cb72b6348d2e97, type: 2}
+  setupDataConfig: {fileID: 11400000, guid: d45e851b328d84345ba10e0a391fe71f, type: 2}

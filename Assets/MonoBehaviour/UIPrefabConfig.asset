@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee7bc97e58cf6981d87496768ccc1407, type: 3}
+  m_Name: UIPrefabConfig
+  m_EditorClassIdentifier:
+  prefabCanvas: {fileID: 1709254077376921, guid: 3bba84b804a0394469e4dc4f94c42c88, type: 2}
+  prefabScreen: {fileID: 1709254077376921, guid: fbfd46f64e9685440b47ff52603e60b4, type: 2}
+  prefabPopup: {fileID: 1709254077376921, guid: a1eefdd4374036441bee095125d296b4, type: 2}
+  prefabTutorial: {fileID: 1709254077376921, guid: a33283e1775a4cf48807eb834dc36cb7, type: 2}
+  prefabLocalizedButton: {fileID: 1709254077376921, guid: f936922308791e14da3684cfdea253f8, type: 2}
+  prefabNonLocalizedButton: {fileID: 1709254077376921, guid: 423578be2a4950a42b8414b564b8a63d, type: 2}
+  prefabLocalizedText: {fileID: 1709254077376921, guid: e4faccd87ffaf6c4c89285a660640a7c, type: 2}
+  prefabNonLocalizedText: {fileID: 1709254077376921, guid: c9dd93e538dc14e48ae488df31e9e354, type: 2}
+  prefabImage: {fileID: 1709254077376921, guid: 1fc2be2002d4c404fbe9dad236897c36, type: 2}
+  prefabSlider: {fileID: 1709254077376921, guid: dadb4f16b00529b4494c5ac607b6731f, type: 2}
+  prefabSliderWithTexts: {fileID: 1709254077376921, guid: b15b03ba4b37db241901761f76e78d96, type: 2}
+  prefabInputField: {fileID: 1709254077376921, guid: e38b1f3bf1e7d32488cacb1000c1d6b5, type: 2}
+  prefabDropdown: {fileID: 1709254077376921, guid: e3d794d374514ac45b466db5f51a73db, type: 2}
+  prefabToggle: {fileID: 1709254077376921, guid: 81af4021c81446848ba7371db79bfeed, type: 2}
+  prefabSwitchToggle: {fileID: 1709254077376921, guid: 7a0391532e20e7c4585ff0ee1d01c8c9, type: 2}
+  prefabVerticalScroll: {fileID: 1709254077376921, guid: ebaa608e3f039b247924e065e4e49e4a, type: 2}
+  prefabHorizontalScroll: {fileID: 1709254077376921, guid: 6e2da357e0fe7a245a7a012680fa0d57, type: 2}
+  prefabTab: {fileID: 1709254077376921, guid: adba5c83a23b6194abb7ad0a0648b03d, type: 2}
+  prefabTabPage: {fileID: 1709254077376921, guid: 705ea792480a23841982411eb0d28f3c, type: 2}
+  prefabArrowMenu: {fileID: 1709254077376921, guid: 559dc04ebf250774db650734cf8c419c, type: 2}

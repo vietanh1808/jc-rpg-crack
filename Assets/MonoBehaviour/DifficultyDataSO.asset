@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65b90ecb5b0047e3981c1aa95c10447a, type: 3}
+  m_Name: DifficultyDataSO
+  m_EditorClassIdentifier:
+  Sprites:
+    m_Keys: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000
+    m_Values:
+    - Normal: {fileID: 21300000, guid: af31fbb39ba84e941a2c060dae92c258, type: 2}
+      Hard: {fileID: 21300000, guid: 801cb0e6fab65644b8bcc9a9f1b96e47, type: 2}
+      VeryHard: {fileID: 21300000, guid: 078b191fbcff5074fbf020e50a10ecd4, type: 2}
+      Current: {fileID: 21300000, guid: c57bbd4c7edf0dd4b9187331e6376835, type: 2}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: b9d477ca9ed70d64db1d3102264e2dfa, type: 2}
+      Hard: {fileID: 21300000, guid: e6258a968e16ac14c86c9a2c62a2512c, type: 2}
+      VeryHard: {fileID: 21300000, guid: 8cd06aee06a5dd247b3fabfe08ee93fb, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 7cae5b1b3a07543459e7a6fe8649c760, type: 2}
+      Hard: {fileID: 21300000, guid: 7cae5b1b3a07543459e7a6fe8649c760, type: 2}
+      VeryHard: {fileID: 21300000, guid: 7cae5b1b3a07543459e7a6fe8649c760, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 4a7a6bffd76cd6547a8cf7f5876886b5, type: 2}
+      Hard: {fileID: 21300000, guid: 4a7a6bffd76cd6547a8cf7f5876886b5, type: 2}
+      VeryHard: {fileID: 21300000, guid: 4a7a6bffd76cd6547a8cf7f5876886b5, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: fa058d452c5ea8643911f98a006a2f8e, type: 2}
+      Hard: {fileID: 21300000, guid: fa058d452c5ea8643911f98a006a2f8e, type: 2}
+      VeryHard: {fileID: 21300000, guid: fa058d452c5ea8643911f98a006a2f8e, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: a4b3d9f7f34b9cb43be1872ec1d03edc, type: 2}
+      Hard: {fileID: 21300000, guid: 3330b5d39c689af4085f6df3df22581a, type: 2}
+      VeryHard: {fileID: 21300000, guid: 53e540e9b28675245816c8a4f19085ea, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: d43856566f430564884cfcffb8d47195, type: 2}
+      Hard: {fileID: 21300000, guid: 08f1494a369d6774cb793d095bcd0a4d, type: 2}
+      VeryHard: {fileID: 21300000, guid: 66fcd669d8782304f9463c23b692f02a, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: b0aeca2fbcc097441a5d84c9f4be13b4, type: 2}
+      Hard: {fileID: 21300000, guid: 0ca7fbff9639fda4dbaf31730a93c4cd, type: 2}
+      VeryHard: {fileID: 21300000, guid: ffefb1e1ffe16ce42890befdc927a3c9, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 9c23a48918fbf6e43962bdd0a950709e, type: 2}
+      Hard: {fileID: 21300000, guid: 6040f2ba145c23042810b62c3edc5433, type: 2}
+      VeryHard: {fileID: 21300000, guid: 6fb842815b04c214baa1ccd815ad1cfa, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 1d252bf329d615a48b0c1967de354ca8, type: 2}
+      Hard: {fileID: 21300000, guid: 7c710243eb7109a42900cc6db8867f79, type: 2}
+      VeryHard: {fileID: 21300000, guid: 66a7e36a8d8a32c44baad423b8171af1, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 75e2e1b73ef412c4c9ec2221f8f21fc4, type: 2}
+      Hard: {fileID: 21300000, guid: a70fd917d0e0a014fa1b8596f9f9a8cc, type: 2}
+      VeryHard: {fileID: 21300000, guid: ebea7c0af0f190f4eaa001a9f624a262, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 27dac29a3e1885c4e901883462055430, type: 2}
+      Hard: {fileID: 21300000, guid: 47b2a0f4a53449f4587db3fcf2c55767, type: 2}
+      VeryHard: {fileID: 21300000, guid: 4ff831f7e5b8cf44badac2b157d26078, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 8324edf2fae453a42819f499f42f06a1, type: 2}
+      Hard: {fileID: 21300000, guid: 02885d63acec368429704e3a2d71285b, type: 2}
+      VeryHard: {fileID: 21300000, guid: 9b91cc7b20959ce4bbeacc85a7d33550, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: b9d477ca9ed70d64db1d3102264e2dfa, type: 2}
+      Hard: {fileID: 21300000, guid: e6258a968e16ac14c86c9a2c62a2512c, type: 2}
+      VeryHard: {fileID: 21300000, guid: 8cd06aee06a5dd247b3fabfe08ee93fb, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 11400000, guid: 147a6e09d3e21ac4688933467533ff54, type: 2}
+        Hard:
+          _metadataAsset: {fileID: 11400000, guid: 21c909301b4a830488e517a35d33ebe1, type: 2}
+        VeryHard:
+          _metadataAsset: {fileID: 11400000, guid: 8ea0f88dcd6887a488c5b248af8fbebf, type: 2}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 0af205eba5a1a6b49b9ea8a781396491, type: 2}
+      Hard: {fileID: 21300000, guid: 097400b72d6598748bee0282bbe08ae4, type: 2}
+      VeryHard: {fileID: 21300000, guid: 98752a96d950ac44eb94a38d34bc7b7f, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: d6241cfb91f1d764cb464305d035822f, type: 2}
+      Hard: {fileID: 21300000, guid: d70f5fc273d1c194b87e2222a9cc798b, type: 2}
+      VeryHard: {fileID: 21300000, guid: 1427a5c1aeb911543b7760e6cbcc6dbd, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 1367eeb96a2acb24abc8235014d74071, type: 2}
+      Hard: {fileID: 21300000, guid: 57f296da3fcee6c4fb6b243bf9a68a36, type: 2}
+      VeryHard: {fileID: 21300000, guid: 16bbae66480fe3b4abd767631c470c2d, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: e37111b8c8988ce49be081ad0fc4b336, type: 2}
+      Hard: {fileID: 21300000, guid: 469ba0776e1986b469d07c3c4c5cbe38, type: 2}
+      VeryHard: {fileID: 21300000, guid: b1d5dcc686d5860468465432ae279dc4, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 1ab86ed713cb92a4593a2fee8e9d972d, type: 2}
+      Hard: {fileID: 21300000, guid: 239d618c3eb987d45882bf3820d6d933, type: 2}
+      VeryHard: {fileID: 21300000, guid: 99d89c6636c440b4c8cd5890937099c4, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 67710835bab327c43a4a143e29ea3b69, type: 2}
+      Hard: {fileID: 21300000, guid: ae59e8f83106d1844adf478d1d24de56, type: 2}
+      VeryHard: {fileID: 21300000, guid: 2fc8c4ff686836d4498899eab44bf51a, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 52bc117f03129b447afba2d33c565d0f, type: 2}
+      Hard: {fileID: 21300000, guid: 303d22fe37daac244bcbef97b23599bc, type: 2}
+      VeryHard: {fileID: 21300000, guid: dad6ccbb9fc74394ea059a0c959d7452, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: da77fbb83da155f459eb92cf490bb58e, type: 2}
+      Hard: {fileID: 21300000, guid: 0a4b99df8fde9084b88855fdc2375dc5, type: 2}
+      VeryHard: {fileID: 21300000, guid: df547150b1faa684cad2986df7d8bc78, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: 2a6ad45175636604695e9487357046f3, type: 2}
+      Hard: {fileID: 21300000, guid: 1276812dc49b02c4ba536a14307c1fd2, type: 2}
+      VeryHard: {fileID: 21300000, guid: b92df0eace45d574ebf0736efe3c9bb0, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}
+    - Normal: {fileID: 21300000, guid: f38af0d9516e6cc4698e48fc94960121, type: 2}
+      Hard: {fileID: 21300000, guid: 6a5cb08efd4866545b4957fdd38dcedb, type: 2}
+      VeryHard: {fileID: 21300000, guid: b110c59b3f0327b4ea289a3b1e495ccb, type: 2}
+      Current: {fileID: 0}
+      Sdf:
+        Normal:
+          _metadataAsset: {fileID: 0}
+        Hard:
+          _metadataAsset: {fileID: 0}
+        VeryHard:
+          _metadataAsset: {fileID: 0}
+        Current:
+          _metadataAsset: {fileID: 0}

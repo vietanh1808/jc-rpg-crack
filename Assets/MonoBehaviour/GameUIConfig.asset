@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0fcbcf39bad97fa2254048e6402810, type: 3}
+  m_Name: GameUIConfig
+  m_EditorClassIdentifier:
+  panelInstances:
+  - {fileID: 114470112387431263, guid: 4ca65a331e78ce4408e4079910b0d275, type: 2}
+  - {fileID: 114336590748365959, guid: 7f98795036bbdc247b82e2fb5f2bcc11, type: 2}
+  - {fileID: 114320256170494724, guid: 884db81798cee21429ff625d2d7c7eb1, type: 2}
+  - {fileID: 114107629493147155, guid: 6d8fc1ca30604df4f96804134d3f4fdc, type: 2}
+  - {fileID: 114900271049623953, guid: 60b793e515f8a134a89748d3d82c8f8c, type: 2}
+  - {fileID: 114397768327470545, guid: a6ba1c31ff03b6c46bf6a0bc8177f426, type: 2}
+  - {fileID: 114642988549198181, guid: bfec961a462373c438e75f58f32b0cad, type: 2}
+  - {fileID: 114642988549198181, guid: d588a9a0dc294fb44910d86076ca889a, type: 2}
+  - {fileID: 114621510681728303, guid: 9b2e943bdb5d41d47a258acfba6c7dc1, type: 2}
+  - {fileID: 114919942235722503, guid: 456732730349fe54195b2313be7a4d56, type: 2}
+  - {fileID: 114313026266067498, guid: ce727e1cab593b24ebc69ff50f695060, type: 2}
+  - {fileID: 114642988549198181, guid: 08406827f0148de46bf9ca8b613ca469, type: 2}
+  - {fileID: 114320256170494724, guid: 4efa1b63ca39db04dba9486404b2bd31, type: 2}
+  - {fileID: 114634108722742392, guid: f4556b6330973304fa6ef9992757c5a6, type: 2}
+  - {fileID: 114572839542275309, guid: 98d4fdc46ace8e6488a2eac7c717c786, type: 2}
+  - {fileID: 114900271049623953, guid: e00c25eccbc75274cb752e8e3b2eb56b, type: 2}
+  - {fileID: 114217368724061974, guid: 6f17018ebb84e004f896cd6bf5da5e3f, type: 2}
+  - {fileID: 114518489005915545, guid: 77d10752e9836ae4b9eb999f7478f7d3, type: 2}
+  - {fileID: 114470112387431263, guid: d703363e8dd9ea04d96aa6cfa0edd619, type: 2}
+  - {fileID: 114208575754630950, guid: fbea8dcf4889d7347a78aa3c15d0b1cd, type: 2}
+  - {fileID: 114976365255789935, guid: 79eb315d67db5a0409a7091a225a6427, type: 2}
+  - {fileID: 114875609422105747, guid: 735f1144530ffe9419fb5d3b8ae2236f, type: 2}
+  - {fileID: 114693329660128220, guid: 4a59b314dd152fa4b841fd16a812c2dc, type: 2}
+  - {fileID: 114969106005120503, guid: 6386dac77a58f044cb7cb957d6130d32, type: 2}
+  path: Assets/!_/UI
+  path2: Assets/!_Game_SDK
+  path3: Assets/!_/DevTools
+  path4:
+  prefabConfig: {fileID: 11400000, guid: 24a90e75bccfdbc419cb72b6348d2e97, type: 2}
+  setupDataConfig: {fileID: 11400000, guid: d45e851b328d84345ba10e0a391fe71f, type: 2}

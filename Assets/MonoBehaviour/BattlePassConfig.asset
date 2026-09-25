@@ -1,0 +1,400 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d14af98d2aad6793bf1c9b738800b04f, type: 3}
+  m_Name: BattlePassConfig
+  m_EditorClassIdentifier:
+  eventId: battlepass
+  trackMode: 0
+  unlockAtLevel: 33
+  milestoneRows:
+  - tier: 1
+    freeEntry:
+      milestoneId: 1
+      gateValue: 1
+      rewards:
+      - kind: 1
+        amount: 500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 1
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 3
+      gateValue: 1
+      rewards:
+      - kind: 2
+        amount: 20
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 1
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 2
+    freeEntry:
+      milestoneId: 2
+      gateValue: 1
+      rewards:
+      - kind: 1
+        amount: 200
+      - kind: 10
+        amount: 60
+      multiRewardIcon: {fileID: 21300000, guid: 060bb648fa609264e851b713152308be, type: 2}
+      kind: 0
+      amount: 0
+      tier: 2
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 5
+      gateValue: 1
+      rewards:
+      - kind: 6
+        amount: 2
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 2
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 3
+    freeEntry:
+      milestoneId: 4
+      gateValue: 1
+      rewards:
+      - kind: 1
+        amount: 1500
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 3
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 7
+      gateValue: 1
+      rewards:
+      - kind: 2
+        amount: 50
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 3
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 4
+    freeEntry:
+      milestoneId: 6
+      gateValue: 1
+      rewards:
+      - kind: 11
+        amount: 5
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 4
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 9
+      gateValue: 1
+      rewards:
+      - kind: 1
+        amount: 5000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 4
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 5
+    freeEntry:
+      milestoneId: 8
+      gateValue: 1
+      rewards:
+      - kind: 9
+        amount: 3
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 5
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 10
+      gateValue: 1
+      rewards:
+      - kind: 2
+        amount: 100
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 5
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 6
+    freeEntry:
+      milestoneId: 11
+      gateValue: 3
+      rewards:
+      - kind: 1
+        amount: 2000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 6
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 13
+      gateValue: 3
+      rewards:
+      - kind: 2
+        amount: 60
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 6
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 7
+    freeEntry:
+      milestoneId: 12
+      gateValue: 3
+      rewards:
+      - kind: 5
+        amount: 3
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 7
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 15
+      gateValue: 3
+      rewards:
+      - kind: 8
+        amount: 3
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 7
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 8
+    freeEntry:
+      milestoneId: 14
+      gateValue: 3
+      rewards:
+      - kind: 1
+        amount: 3000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 8
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 17
+      gateValue: 3
+      rewards:
+      - kind: 2
+        amount: 120
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 8
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 9
+    freeEntry:
+      milestoneId: 16
+      gateValue: 3
+      rewards:
+      - kind: 11
+        amount: 10
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 9
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 19
+      gateValue: 3
+      rewards:
+      - kind: 1
+        amount: 8000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 9
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 10
+    freeEntry:
+      milestoneId: 18
+      gateValue: 3
+      rewards:
+      - kind: 9
+        amount: 5
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 10
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 20
+      gateValue: 3
+      rewards:
+      - kind: 10
+        amount: 120
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 10
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 11
+    freeEntry:
+      milestoneId: 21
+      gateValue: 6
+      rewards:
+      - kind: 1
+        amount: 4000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 11
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 23
+      gateValue: 6
+      rewards:
+      - kind: 2
+        amount: 100
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 11
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 12
+    freeEntry:
+      milestoneId: 22
+      gateValue: 6
+      rewards:
+      - kind: 9
+        amount: 5
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 12
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 26
+      gateValue: 6
+      rewards:
+      - kind: 2
+        amount: 200
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 12
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 13
+    freeEntry:
+      milestoneId: 24
+      gateValue: 6
+      rewards:
+      - kind: 1
+        amount: 5000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 13
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 28
+      gateValue: 6
+      rewards:
+      - kind: 10
+        amount: 360
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 13
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 14
+    freeEntry:
+      milestoneId: 25
+      gateValue: 6
+      rewards:
+      - kind: 7
+        amount: 5
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 14
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 29
+      gateValue: 6
+      rewards:
+      - kind: 1
+        amount: 15000
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 14
+      isPremium: 1
+      unlockAtEarned: 0
+  - tier: 15
+    freeEntry:
+      milestoneId: 27
+      gateValue: 6
+      rewards:
+      - kind: 11
+        amount: 15
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 15
+      isPremium: 0
+      unlockAtEarned: 0
+    premiumEntry:
+      milestoneId: 30
+      gateValue: 6
+      rewards:
+      - kind: 4
+        amount: 1
+      multiRewardIcon: {fileID: 0}
+      kind: 0
+      amount: 0
+      tier: 15
+      isPremium: 1
+      unlockAtEarned: 0
+  milestoneEntries: []
+  premiumProductID: com.puzzle.sandscratch.battlepass
+  keyPerWinNormal: 1
+  keyPerWinHard: 2
+  keyPerWinVeryHard: 3
